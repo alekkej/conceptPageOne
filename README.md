@@ -2,4 +2,4 @@
  
  #html #css #gsap
  
-without mobile devices
+no mobile device support
